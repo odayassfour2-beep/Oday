@@ -1,15 +1,13 @@
 {
-  "name": "مِشكاة المدرسة | الإدارة المدرسية",
+  "name": "مِشكاة | بوابة المدرسة",
   "short_name": "مِشكاة",
-  "description": "إدارة الطلاب والحضور والسلوك والتواصل مع أولياء الأمور",
+  "description": "بوابة المدرسة لإدارة الطلاب والحضور والعلامات والسلوك",
   "lang": "ar",
   "dir": "rtl",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f6f7f3",
-  "theme_color": "#102b25",
-  "icons": [
-    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
-  ]
+  "background_color": "#f4f7fa",
+  "theme_color": "#123c69",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
 }
